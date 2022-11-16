@@ -50,3 +50,5 @@
 </ol>
 </b>
 <hr>
+<image src="first_stage.png" alt="Gui Pic">
+<hr>
