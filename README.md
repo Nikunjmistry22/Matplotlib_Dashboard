@@ -52,3 +52,6 @@
 <hr>
 <image src="gui.jpeg" alt="gui">
 <hr>
+<h2>
+To see a working application video <br>click on
+<a href="https://youtu.be/wBGD9gH6IW8">matplotlib visualizer</a></h2>
