@@ -1,7 +1,7 @@
 # Matplotlib_Dashboard
 <br>
 <h3>This is a python gui tool,a smaller version of popular dashboards ie Tableu, PowerBI .</h3>
-<h4>Max length of csv file to process in efficient time is around 400-500 rows</h4>
+<h4>It can handle data upto 1k length dataset row.</h4>
 <hr>
 
 <h2>prerequisite python libraries:</h2>
@@ -38,4 +38,15 @@
 <h3><li>python main_md.py </li>
 </ul>
 </h3>
+<hr>
+<h2>Process of gui application: </h2>
+<b>
+<ol>
+<li>Open and select your csv file from the menu..</li>
+<li>Click on an individual chart and select right parameters..</li>
+<li>Write notes if u want to analyse from the charts</li>
+<li>To save your dashboard click on screen shot button</li>
+<li>To save your text in a txt file</li>
+</ol>
+</b>
 <hr>
